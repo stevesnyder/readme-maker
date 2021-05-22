@@ -1,4 +1,4 @@
-# readme-maker
+  # readme-maker
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -8,6 +8,7 @@
   - [Important Commands](#important-commands)
   - [About the Repo](#about-the-repo)
   - [Contact](#contact)
+  - [Video](#video)
   - [License](#license)
 
   ## About the Project
@@ -41,6 +42,10 @@
   Github: stevesnyder
 
   ---
+  
+  ## Video
+  
+  https://user-images.githubusercontent.com/74982034/119215633-dd931300-ba9c-11eb-8912-09ae459b118f.mp4
 
   ## License
 
